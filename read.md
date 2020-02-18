@@ -1,0 +1,1 @@
+This is an exampled of looping through items in the array using JS.
